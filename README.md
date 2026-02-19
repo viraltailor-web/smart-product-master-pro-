@@ -5,7 +5,7 @@ A high-performance WordPress plugin featuring an AJAX-powered product search gal
 ### 🔗 Live Demo & Portfolio
 * **Live Site:** [http://practical.yoursmarthost.net/viraltailor/product-search/](http://practical.yoursmarthost.net/viraltailor/product-search/)
 * **Database View (Internal):** Accessible via the `product_summary` view in phpMyAdmin.
-
+u
 ---
 
 ### 🛠️ Key Technical Features
@@ -191,10 +191,4 @@ The following data is dynamically generated via my automated seeding script and 
 | 291 | HD Smart Tech 2  | 310   | 3      |
 | 292 | HD Smart Tech 3  | 425   | 4      |
 | ... | ...              | ...   | ...    |
-## 📸 Project Evidence
 
-### WordPress Plugin Status (v35.0)
-![Active Plugin](plugin-active.jpg)
-
-### Database SQL View (product_summary)
-![SQL Results](database-view.jpg)
