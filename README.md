@@ -182,3 +182,12 @@ add_filter('the_content', function($content) {
     }
     return $content;
 });
+### 📊 Database Preview (SQL View: product_summary)
+The following data is dynamically generated via my automated seeding script and accessible via the `product_summary` view in phpMyAdmin.
+
+| ID  | Product Name     | Price | Rating |
+|-----|------------------|-------|--------|
+| 290 | HD Smart Tech 1  | 363   | 5      |
+| 291 | HD Smart Tech 2  | 310   | 3      |
+| 292 | HD Smart Tech 3  | 425   | 4      |
+| ... | ...              | ...   | ...    |
